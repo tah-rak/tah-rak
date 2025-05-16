@@ -63,12 +63,6 @@ I enjoy working on:
 
 ---
 
-## 📄 Resume
-
-📎 [View my full resume (PDF)](./Tharak(Resume).pdf)
-
----
-
 ## 🌐 Connect with Me
 
 - 📧 ktharak@usf.edu  
