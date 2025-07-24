@@ -10,7 +10,7 @@
 I'm a CS grad student at the University of South Florida, with research experience in **computational epidemiology**, **cancer bioinformatics**, and **LLM-based systems**.
 
 I enjoy working on:
-- AI and ML
+- AI and ML and software engineering
 - Backend & cloud-native systems using Python, Java, AWS, Terraform
 
 ---
@@ -65,7 +65,7 @@ I enjoy working on:
 
 ## 🌐 Connect with Me
 
-- 📧 ktharak@usf.edu  
+- 📧 tharak.env@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/tharak-k)  
 
 ---
