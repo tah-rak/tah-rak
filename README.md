@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Tharak Koneni 
-[portfolio](https://tharak.pages.dev/)
+# 👋 Hi, I'm Tharak Koneni [portfolio](https://tharak.pages.dev/)
 
 🎓 Master's Student in Computer Science @ USF  
 💡 Passionate about building scalable systems and solving real-world problems using AI.
