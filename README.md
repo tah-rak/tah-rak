@@ -117,9 +117,7 @@ I care about code that is readable, maintainable, and actually solves the proble
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tah-rak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tah-rak&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
