@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tah-rak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <a href="https://github.com/tah-rak?tab=followers">
     <img src="https://img.shields.io/github/followers/tah-rak?label=Followers&style=flat&color=0e75b6" alt="followers"/>
@@ -17,7 +17,7 @@
   <a href="https://github.com/tah-rak">
     <img src="https://img.shields.io/github/stars/tah-rak?label=Stars&style=flat&color=0e75b6" alt="stars"/>
   </a>
-</p>
+</p> -->
 
 ---
 
